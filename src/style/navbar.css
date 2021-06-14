@@ -1,0 +1,38 @@
+.navbar-logo {
+    height: 80px;
+}
+
+.bg-primary {
+    background-color:#03256c !important
+  }
+
+.bg-secondary {
+    background-color:#2541b2 !important
+}
+
+.bg-third {
+    background-color:#1768ac !important
+}
+
+.bg-fourth {
+    background-color:#e5d549 !important
+}
+
+h3 {
+    color:#1768ac !important
+}
+
+
+.whatsapp-img:hover {
+    opacity: .8;
+}
+
+.whatsapp-img {
+    cursor: pointer;
+    position: fixed;
+    bottom: 40px;
+    right: 30px;
+    height: 5em;
+    z-index: 10;
+}
+

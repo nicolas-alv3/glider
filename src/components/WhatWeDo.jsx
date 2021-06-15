@@ -9,8 +9,8 @@ const ModalAMedida = () => <div>
       <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
     </div>
     <div className="modal-body">
+      <h4> Ejemplo de software a medida solicitado por uno de nuestros clientes.</h4>
       <iframe title="Microdemo" allowfullscreen="true" width="100%" height="400vw" src={`https://www.youtube.com/embed/-ZIlGy2ew0g`} frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-      <h4> En este video se muestra un ejemplo de software a medida solicitado por uno de nuestros clientes.</h4>
       El software a medida es la mejor opción para empresas o emprendimientos que necesitan una solución personalizada y que quieren sistematizar su modelo de negocio.
       Este tipo de soluciónes son altamente escalables y se recomiendan para proyectos a largo plazo.
     </div>
@@ -32,7 +32,7 @@ const ModalSitiosEmpresariales = () => <div>
       <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
     </div>
     <div className="modal-body">
-      <b>Este sitio</b> es un claro ejemplo de landing page o sitio empresarial, posee una portada, una sección describiendo de que se trata la empresa, como funciona y que servicios prestan.
+      <b>El sitio de Glider, donde se encuentra actuamente</b> es un claro ejemplo de landing page o sitio empresarial, posee una portada, una sección describiendo de que se trata la empresa, como funciona y que servicios prestan.
       Sin dudas es una de las mejores alternativas para atraer clientes!
     </div>
     <div className="modal-footer">
@@ -54,8 +54,8 @@ const ModalSistemas = () => <div>
       <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
     </div>
     <div className="modal-body">
+    <h4> Ejemplo de sistema solicitado por uno de nuestros clientes.</h4>
     <iframe title="Microdemo" allowfullscreen="true" width="100%" height="400vw" src={`https://www.youtube.com/embed/ge89vTz5x_k`} frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-    <h4> En este video se muestra un ejemplo de sistema solicitado por uno de nuestros clientes.</h4>
     Nuestros sistemas replican su flujo de negocio, proponen una interfaz amigable e intuitiva haciendo de su trabajo una actividad mas placentera y eficiente.
     </div>
     <div className="modal-footer">
